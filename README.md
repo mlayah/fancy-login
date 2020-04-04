@@ -1,6 +1,6 @@
 # FANCY LOGIN SCREEN IN FLUTTER
 
-<img src="login.jpg"/>
+<img src="login.png"/>
 
 ## Getting Started
 
